@@ -61,7 +61,8 @@ body {
 }
 
 .box {
-  background-image: url('https://media.giphy.com/media/EZqwsBSPlvSda/giphy.gif');
+  /* background-image: url('https://media.giphy.com/media/EZqwsBSPlvSda/giphy.gif'); */
+  background-image: (https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif};
   background-repeat: no-repeat;
   background-size: 500px 500px;
   position: relative;
